@@ -4,8 +4,8 @@
     <Identity Id="UnloadTestProjects.bb2891f5-21f6-426e-beab-6abb3c91bd21" Version="1.0" Language="en-US" Publisher="Anton Houben" />
     <DisplayName>UnloadTestProjects</DisplayName>
     <Description>Adds option to unload all Test projects.</Description>
-    <Tags>unload;test;project;analysis;exclude;find;references</Tags>
-    <Preview>true</Preview>
+    <MoreInfo>https://github.com/Sjeijoet/UnloadTestProjects/</MoreInfo>
+    <PreviewImage>.vsextension\preview.png</PreviewImage>
   </Metadata>
   <Installation ExtensionType="VSSDK+VisualStudio.Extensibility">
     <InstallationTarget Id="Microsoft.VisualStudio.Community" Version="[17.9, 19.0)">
