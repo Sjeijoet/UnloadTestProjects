@@ -38,7 +38,7 @@ namespace UnloadTestProjects
         /// <inheritdoc />
         public override CommandConfiguration CommandConfiguration => new("%UnloadTestProjects.UnloadTestProjectsCommand.DisplayName%")
         {
-            VisibleWhen = ActivationConstraint.SolutionHasProjectCapability(ProjectCapability.TestContainer),
+            // VisibleWhen = ActivationConstraint.SolutionHasProjectCapability(ProjectCapability.TestContainer),
             Icon = new(ImageMoniker.KnownValues.RemoveTestGroup, IconSettings.IconAndText),
             Placements =
             [

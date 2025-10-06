@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
   <Metadata>
-    <Identity Id="UnloadTestProjects.bb2891f5-21f6-426e-beab-6abb3c91bd21" Version="1.0" Language="en-US" Publisher="Anton Houben" />
+    <Identity Id="UnloadTestProjects.bb2891f5-21f6-426e-beab-6abb3c91bd21" Version="1.0.1" Language="en-US" Publisher="Anton Houben" />
     <DisplayName>UnloadTestProjects</DisplayName>
     <Description>Adds option to unload all Test projects.</Description>
     <MoreInfo>https://github.com/Sjeijoet/UnloadTestProjects/</MoreInfo>
